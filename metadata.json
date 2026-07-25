@@ -1,0 +1,6 @@
+{
+  "name": "Dulces Capricho Mágico",
+  "description": "Repostería artesanal en Dulces Capricho Mágico. Pasteles personalizados, cupcakes, cheesecakes, brownies y más.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
